@@ -1,2 +1,0 @@
-# DARKBOT
-termux-setup-storage
